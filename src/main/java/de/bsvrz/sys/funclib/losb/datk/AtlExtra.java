@@ -28,7 +28,6 @@
 package de.bsvrz.sys.funclib.losb.datk;
 
 import de.bsvrz.dav.daf.main.Data;
-import de.bsvrz.dav.daf.main.config.AttributeListDefinition;
 import de.bsvrz.dav.daf.main.config.SystemObject;
 
 import java.io.Serializable;
